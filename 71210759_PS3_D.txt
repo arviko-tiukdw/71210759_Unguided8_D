@@ -1,0 +1,8 @@
+Inisialisasi; n = bilangan tertentu, dan tidak 0
+Inisialisasi; f = Faktorial
+
+Faktorial
+Faktorial = n*(n-1)*(n-2)...*2*1
+
+if n bukan 0 maka tampilan bisa
+else n 0 maka tidak bisa dihitung
